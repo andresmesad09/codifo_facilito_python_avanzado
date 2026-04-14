@@ -1,0 +1,1 @@
+Dentro de la industria en la que trabajas, o en la empresa que trabajas. O sino trabajas, piensa en algún problema de alguien cercano que pueda resolverse a través de la aplicación de alguno de estos algoritmos. Luego implementa un borrador inicial de esa solución. Debe ser un problema muy puntual.

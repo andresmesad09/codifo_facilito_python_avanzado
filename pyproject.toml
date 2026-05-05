@@ -12,4 +12,5 @@ dependencies = [
     "numpy>=2.4.4",
     "scikit-learn>=1.8.0",
     "sortedcontainers>=2.4.0",
+    "toolz>=1.1.0",
 ]
